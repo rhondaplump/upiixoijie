@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ziokiefae.cervenybalonek.cz/sitemap.xml
